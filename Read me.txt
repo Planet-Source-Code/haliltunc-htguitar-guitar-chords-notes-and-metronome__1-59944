@@ -1,0 +1,12 @@
+HtGuitar 1.0
+Ankara / TURKEY
+
+  1 - Chords finder 
+  2 - Note table
+  3 - Metronome
+
+  This aplication is freeware. 
+
+  Halil TUNÇ
+  http://www.haliltunc.com/htguitar.asp
+  halil_tunc@hotmail.com
